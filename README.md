@@ -57,6 +57,10 @@ CREATE TABLE poses (
 ---
  📸 Pose Table Preview:
 An image (`robot_arm_table_preview.jpg`) is included in the project folder to preview how the table will look.
+![Image](https://github.com/user-attachments/assets/8080df7e-5fac-41c1-9fca-1efea2243097)
 
 ---
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/dc1967ef-60bb-4711-af14-b6c01fd791cb" />
+
 
